@@ -8,7 +8,7 @@ public class Iterator {
 	public static void main(String[] args) {
 		// creating array list 
 		ArrayList<String> al = new ArrayList();
-		
+		//adding the element in the ArrayList
 		al.add("A");
 		al.add("B");
 		al.add("C");
