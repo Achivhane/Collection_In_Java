@@ -17,6 +17,7 @@ public class LinkedListMethod {
 		ll.add('f');
 		ll.add('g');
 		ll.add('h');
+		
 		System.out.println("add the element in the linked list : "+ll);
 		
 		 // remove elements from the linked list
