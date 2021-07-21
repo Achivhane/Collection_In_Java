@@ -8,6 +8,7 @@ public class ListIterator {
 		// creating array list 
 		ArrayList<String> al = new ArrayList();
 		
+		//adding the element in the ArrayList
 		al.add("A");
 		al.add("B");
 		al.add("C");
