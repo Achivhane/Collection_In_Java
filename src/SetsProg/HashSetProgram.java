@@ -11,7 +11,7 @@ public class HashSetProgram {
 		hs.add("B");
 		hs.add("C");
 		hs.add("C");
-		
+		//heh
 		System.out.println("Added Element in the hs : "+hs);
 
 	}
